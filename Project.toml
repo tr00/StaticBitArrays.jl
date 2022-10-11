@@ -1,0 +1,7 @@
+name = "StaticBitArrays"
+uuid = "d9dba4ec-6c28-4f89-bc04-4bef21cf7404"
+authors = ["tr00 <tryyyy@mailbox.org>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
